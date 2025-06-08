@@ -1,0 +1,38 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fdfdfd;
+}
+header {
+  background: #ff9800;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+main {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+.bundle {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  width: 300px;
+}
+.bundle img {
+  width: 100%;
+  border-radius: 10px;
+}
+.bundle a {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background: #28a745;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
